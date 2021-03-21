@@ -13,7 +13,6 @@ $ sudo make clean install
 ### Patch applied  
   
 - [alwayscenter](https://dwm.suckless.org/patches/alwayscenter/)
-- [alwayscenter](https://dwm.suckless.org/patches/alwayscenter/)
 - [aspectresize](https://dwm.suckless.org/patches/aspectresize/)
 - [attachbottom](https://dwm.suckless.org/patches/attachbottom/)
 - [autostart](https://dwm.suckless.org/patches/autostart/)
